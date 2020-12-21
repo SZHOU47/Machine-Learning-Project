@@ -1,1 +1,3 @@
-# Machine-Learning-Project
+# Kaggle Competition: Santander Customer Satisfaction
+
+### Machine Learning Project
