@@ -4,4 +4,4 @@
 
 ### Machine Learning Project
 
-![Fig](Fig.png)
+![Fig](fig/Fig.png)
